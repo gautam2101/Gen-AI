@@ -1,6 +1,6 @@
 # Assignment 1 - Python Data Structures
 
-Name: Nikesh Kumar
+Name: Gautam Kumar
 
 ## Python Files
 
